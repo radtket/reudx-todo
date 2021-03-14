@@ -16,26 +16,24 @@ const initialState = {
   ],
 };
 
-const todos = (state = initialState, action) => {
-  switch (action.type) {
+const todos = (state = initialState, { payload, type }) => {
+  switch (type) {
     case ADD_TODO:
       return {
         ...state,
-        todos: [...state.todos, action.payload],
+        todos: [...state.todos, payload],
       };
     case TOGGLE_TODO:
       return {
         ...state,
         todos: state.todos.map(todo =>
-          todo.id === action.payload
-            ? { ...todo, complete: !todo.complete }
-            : todo
+          todo.id === payload ? { ...todo, complete: !todo.complete } : todo
         ),
       };
     case DELETE_TODO:
       return {
         ...state,
-        todos: state.todos.filter(todo => todo.id !== action.payload),
+        todos: state.todos.filter(todo => todo.id !== payload),
       };
     default:
       return state;

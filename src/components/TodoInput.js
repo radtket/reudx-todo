@@ -1,5 +1,3 @@
-/* eslint-disable no-console */
-/* eslint-disable no-unreachable */
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
 import { v4 as uuid } from "uuid";
@@ -34,6 +32,7 @@ const TodoInput = () => {
         setTodo("");
       }}
       onFinishFailed={errorInfo => {
+        // eslint-disable-next-line no-console
         console.log("Failed:", errorInfo);
       }}
     >

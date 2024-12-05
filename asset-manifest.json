@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/wilfred-episode-picker/static/js/main.717aab9b.chunk.js",
-    "main.js.map": "/wilfred-episode-picker/static/js/main.717aab9b.chunk.js.map",
-    "runtime-main.js": "/wilfred-episode-picker/static/js/runtime-main.72920786.js",
-    "runtime-main.js.map": "/wilfred-episode-picker/static/js/runtime-main.72920786.js.map",
-    "static/css/2.a9ef530b.chunk.css": "/wilfred-episode-picker/static/css/2.a9ef530b.chunk.css",
-    "static/js/2.745c1b26.chunk.js": "/wilfred-episode-picker/static/js/2.745c1b26.chunk.js",
-    "static/js/2.745c1b26.chunk.js.map": "/wilfred-episode-picker/static/js/2.745c1b26.chunk.js.map",
-    "static/js/3.32d8417d.chunk.js": "/wilfred-episode-picker/static/js/3.32d8417d.chunk.js",
-    "static/js/3.32d8417d.chunk.js.map": "/wilfred-episode-picker/static/js/3.32d8417d.chunk.js.map",
-    "index.html": "/wilfred-episode-picker/index.html",
-    "static/css/2.a9ef530b.chunk.css.map": "/wilfred-episode-picker/static/css/2.a9ef530b.chunk.css.map",
-    "static/js/2.745c1b26.chunk.js.LICENSE.txt": "/wilfred-episode-picker/static/js/2.745c1b26.chunk.js.LICENSE.txt"
+    "main.js": "/reudx-todo/static/js/main.717aab9b.chunk.js",
+    "main.js.map": "/reudx-todo/static/js/main.717aab9b.chunk.js.map",
+    "runtime-main.js": "/reudx-todo/static/js/runtime-main.b8557f6b.js",
+    "runtime-main.js.map": "/reudx-todo/static/js/runtime-main.b8557f6b.js.map",
+    "static/css/2.a9ef530b.chunk.css": "/reudx-todo/static/css/2.a9ef530b.chunk.css",
+    "static/js/2.b4245c63.chunk.js": "/reudx-todo/static/js/2.b4245c63.chunk.js",
+    "static/js/2.b4245c63.chunk.js.map": "/reudx-todo/static/js/2.b4245c63.chunk.js.map",
+    "static/js/3.32d8417d.chunk.js": "/reudx-todo/static/js/3.32d8417d.chunk.js",
+    "static/js/3.32d8417d.chunk.js.map": "/reudx-todo/static/js/3.32d8417d.chunk.js.map",
+    "index.html": "/reudx-todo/index.html",
+    "static/css/2.a9ef530b.chunk.css.map": "/reudx-todo/static/css/2.a9ef530b.chunk.css.map",
+    "static/js/2.b4245c63.chunk.js.LICENSE.txt": "/reudx-todo/static/js/2.b4245c63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.72920786.js",
+    "static/js/runtime-main.b8557f6b.js",
     "static/css/2.a9ef530b.chunk.css",
-    "static/js/2.745c1b26.chunk.js",
+    "static/js/2.b4245c63.chunk.js",
     "static/js/main.717aab9b.chunk.js"
   ]
 }

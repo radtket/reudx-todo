@@ -2,7 +2,7 @@
   "name": "reudx-todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://radtket.github.io/wilfred-episode-picker",
+  "homepage": "http://radtket.github.io/reudx-todo",
   "dependencies": {
     "@ant-design/icons": "^4.4.0",
     "@babel/core": "^7.26.0",
